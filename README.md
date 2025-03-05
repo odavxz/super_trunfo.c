@@ -1,9 +1,24 @@
-English:
-My name is Davi, i am 18yo, a brazilian who is trying to be a good programmer.
-By the way my instagram is: @odavxz .
-Email for business: davialveslino2@gmail.com
+Projeto: Super Trunfo de Cidades
+O que é?
+O Super Trunfo de Cidades é uma versão digital e interativa do clássico jogo de cartas Super Trunfo. Nele, você compara duas cidades com base em atributos como população, área, PIB, pontos turísticos, densidade demográfica e PIB per capita. O objetivo é simples: escolher os melhores atributos e vencer a rodada!
 
-Português:
-Meu nome é Davi, tenho 18 anos de idade, apenas um brasileiro tentando ser um bom programador.
-Aproveitando, meu instagram é: @odavxz .
-Email para contato: davialveslino2@gmail.com.
+Como funciona?
+Cadastre as cartas:
+
+Insira dados de duas cidades, como nome, estado, população, área, PIB e pontos turísticos.
+
+O sistema calcula automaticamente a densidade demográfica e o PIB per capita.
+
+Escolha os atributos:
+
+Selecione dois atributos para comparar as cidades.
+
+O menu é dinâmico, evitando que você escolha o mesmo atributo duas vezes.
+
+Compare e descubra o vencedor:
+
+Para a maioria dos atributos, a cidade com o maior valor vence.
+
+Para a densidade demográfica, a cidade com o menor valor vence.
+
+Após a comparação, os valores dos atributos são somados, e a cidade com a maior soma vence a rodada.
